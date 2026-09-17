@@ -67,7 +67,8 @@ const MODEL_MAPPING = {
   'deepseek_f': 'deepseek-ai/deepseek-v4-flash-0731',
   'deepseek': 'deepseek-ai/deepseek-v4-pro-0813',
   'minmax': 'minimaxai/minimax-m3',
-  'pool': 'poolside/laguna-xs-2.1'
+  'glm-f': 'z-ai/glm-5.3-flash',
+  'glm': 'z-ai/glm-5.3'
 };
 
 // Default model used when an unrecognized alias is requested.
