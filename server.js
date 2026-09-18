@@ -65,7 +65,7 @@ validateConfig();
 const MODEL_MAPPING = {
   'kimi': 'moonshotai/kimi-k3',
   'deepseek_f': 'deepseek-ai/deepseek-v4-flash-0731',
-  'deepseek': 'deepseek-ai/deepseek-v4-pro-0813',
+  'muse': 'meta/muse-glimmer-30b',
   'minmax': 'minimaxai/minimax-m3',
   'glm-f': 'z-ai/glm-5.3-flash',
   'glm': 'z-ai/glm-5.3'
