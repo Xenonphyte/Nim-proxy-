@@ -63,7 +63,7 @@ validateConfig();
 // ─── Model Mapping ─────────────────────────────────────────────────────────
 
 const MODEL_MAPPING = {
-  'kimi': 'moonshotai/kimi-k3',
+  'minmax': 'minimaxai/minimax-m3.1-flash',
   'deepseek_f': 'deepseek-ai/deepseek-v4.1-flash',
   'muse': 'meta/muse-glimmer-30b',
   's5': 'stepfun-ai/step-5-preview',
