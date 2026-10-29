@@ -63,7 +63,7 @@ validateConfig();
 // ─── Model Mapping ─────────────────────────────────────────────────────────
 
 const MODEL_MAPPING = {
-  'minmax': 'minimaxai/minimax-m3.1-flash',
+  'mistral': 'mistralai/mistral-large-4-1t-a52b',
   'deepseek_f': 'deepseek-ai/deepseek-v4.1-flash',
   'muse': 'meta/muse-glimmer-30b',
   's5': 'stepfun-ai/step-5-preview',
