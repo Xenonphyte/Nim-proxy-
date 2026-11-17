@@ -68,7 +68,7 @@ const MODEL_MAPPING = {
   'muse': 'meta/muse-glimmer-30b',
   's5': 'stepfun-ai/step-5-preview',
   'glm-f': 'z-ai/glm-5.3-flash',
-  'kimi': 'moonshotai/kimi-k3.1-pro
+  'kimi': 'moonshotai/kimi-k3.1-pro',
 };
 
 // Default model used when an unrecognized alias is requested.
