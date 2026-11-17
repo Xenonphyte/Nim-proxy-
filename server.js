@@ -63,12 +63,12 @@ validateConfig();
 // ─── Model Mapping ─────────────────────────────────────────────────────────
 
 const MODEL_MAPPING = {
-  'mistral': 'mistralai/mistral-large-4-1t-a52b',
+  'nemo': 'nvidia/nemotron-3-ultra-550b-a55b',
   'minmax': 'minimaxai/minimax-m3.1-flash',
   'muse': 'meta/muse-glimmer-30b',
   's5': 'stepfun-ai/step-5-preview',
   'glm-f': 'z-ai/glm-5.3-flash',
-  'glm': 'z-ai/glm-5.3'
+  'kimi': 'moonshotai/kimi-k3.1-pro
 };
 
 // Default model used when an unrecognized alias is requested.
